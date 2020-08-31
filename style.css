@@ -1,0 +1,48 @@
+
+  h1 {
+      background-color: #707070;
+      color: white;
+      text-align: center;
+      font-size: 32px;
+      padding: 20px;
+    }
+    a {
+      color: red;
+    }
+    .container {
+        width: 1024px;
+        margin: 0 auto;
+    }
+    #bio,
+    #contactblock,
+    #headshot {
+        float: left;
+    }
+    
+    #bio {
+        width: 70%;
+    }
+
+    #contactblock {
+        width:30%;
+    }
+
+    #headshot {
+        width: 200px;
+        height:200px;
+        margin: 0px 15px;
+    }
+
+    body {
+        padding: 0px;
+        margin: 0px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        line-height: 150%;
+        font-size:18px;
+        color: #333333;
+        background: #efeee7
+    }
+    #disc {
+        padding: 0px 15px;
+        margin: 0px 10px;
+    }
